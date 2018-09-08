@@ -16,7 +16,6 @@
 	import flash.net.URLLoader;
 	import flash.net.URLRequest;
 	import flash.net.URLLoaderDataFormat;
-	import com.adobe.serialization.json.JSON;
 	import com.mattsutils.abstract.Basicutils;
 
 	public class V2_main extends MovieClip {
@@ -63,7 +62,7 @@
 			switch (loadphase) {
 				case 0 ://loading definition file
 					trace(loadphase);
-					defobj=JSON.decode(jsonLoader.data);
+					defobj=JSON.parse(jsonLoader.data);
 					jsonRequest=new URLRequest(defobj.classURL);
 					jsonLoader.load(jsonRequest);
 					loadphase++;
@@ -71,7 +70,7 @@
 					break;
 				case 1 ://loading weapon classes file
 					trace(loadphase);
-					classobj=JSON.decode(jsonLoader.data);
+					classobj=JSON.parse(jsonLoader.data);
 					jsonRequest=new URLRequest(defobj.typeURL);
 					jsonLoader.load(jsonRequest);
 					trace(defobj.typeURL);
@@ -79,14 +78,14 @@
 					break;
 				case 2 ://loading munition types file
 					trace(loadphase);
-					typeobj=JSON.decode(jsonLoader.data);
+					typeobj=JSON.parse(jsonLoader.data);
 					loadphase++;
 					jsonRequest=new URLRequest(defobj.factionURL);
 					jsonLoader.load(jsonRequest);
 					break;
 				case 3 :
 					trace(loadphase);
-					factionobj=JSON.decode(jsonLoader.data);
+					factionobj=JSON.parse(jsonLoader.data);
 					loadphase++;
 					jsonRequest=new URLRequest(defobj.descURL);
 					jsonLoader.load(jsonRequest);
@@ -94,14 +93,14 @@
 					break;
 				case 4 :
 					trace(loadphase);
-					descobj=JSON.decode(jsonLoader.data);
+					descobj=JSON.parse(jsonLoader.data);
 					loadphase++;
 					jsonRequest=new URLRequest(defobj.detailURL);
 					jsonLoader.load(jsonRequest);
 					break;
 				case 5 :
 					trace(loadphase);
-					detailobj=JSON.decode(jsonLoader.data);
+					detailobj=JSON.parse(jsonLoader.data);
 					btn_newwep.label="Generate Weapon";
 					btn_refresh.label="Refresh";
 					btn_newwep.addEventListener(MouseEvent.CLICK, newwep);
