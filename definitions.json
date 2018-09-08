@@ -1,0 +1,68 @@
+{
+  "faction": [
+    "mechanicus",
+    "IG",
+    "spacemarine",
+    "inquisition",
+    "eldar",
+    "darkeldar",
+    "ork",
+    "chaos",
+    "tau",
+    "necron",
+    "tyranid"
+  ],
+  "factionURL": "https://dl.dropboxusercontent.com/u/29574227/40kweapongen/factiondef.json",
+  "descURL": "https://dl.dropboxusercontent.com/u/29574227/40kweapongen/descdef.json",
+  "wepclass": [
+    "artlimb",
+    "gauntlet",
+    "sword",
+    "staff",
+    "jewlery",
+    "pistol",
+    "autorifle",
+    "carbine",
+    "shotgun",
+    "longrifle",
+    "LMG",
+    "launcher",
+    "hshouldermounted",
+    "hunderslung",
+    "drone"
+  ],
+  "classURL": "https://dl.dropboxusercontent.com/u/29574227/40kweapongen/wepclasses.json",
+  "weptype": [
+    "bullet",
+    "rocket",
+    "beam",
+    "liquid",
+    "grenade",
+    "dart",
+    "bio",
+    "blade",
+    "mine",
+    "sorc"
+  ],
+  "subtype": [
+    "rad",
+    "incendiary",
+    "electric",
+    "acid",
+    "freeze",
+    "HE",
+    "HVAP",
+    "viral",
+    "psychic",
+    "anti-warp"
+  ],
+  "typeURL": "https://dl.dropboxusercontent.com/u/29574227/40kweapongen/weptypes.json",
+  
+  "details": [
+  "attach",
+  "detail",
+  "cons",
+  "age"
+  ],
+  "detailURL": "https://dl.dropboxusercontent.com/u/29574227/40kweapongen/detaildef.json"
+}

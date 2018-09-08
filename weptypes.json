@@ -1,0 +1,122 @@
+{
+  "bullet": {
+    "rad": "radium coated slug",
+    "incendiary": "incendiary round",
+    "electric": "electrified bullet",
+    "acid": "hydrochloric bullet",
+    "freeze": "cryo bolt",
+    "HE": "bolt round",
+    "HVAP": "dense core round",
+    "viral": "Hellfire Bolt",
+    "psychic": "arcane imbued round",
+    "anti-warp": "psybolt"
+  },
+  "rocket": {
+    "rad": "fission rocket",
+    "incendiary": "thermobaric rocket",
+    "electric": "EMP rocket",
+    "acid": "hydrofluoric rocket",
+    "freeze": "cryo rocket",
+    "HE": "explosive rocket",
+    "HVAP": "APFSDS rocket",
+    "viral": "biowarfare rocket",
+    "psychic": "warprocket",
+    "anti-warp": "psyk-out rocket"
+  },
+  "beam": {
+    "rad": "las beam",
+    "incendiary": "melta burst",
+    "electric": "electro laser",
+    "acid": "high-pressure acid jet",
+    "freeze": "cryo beam",
+    "HE": "particle beam",
+    "HVAP": "plasma pulse",
+    "viral": "mutagen projector",
+    "psychic": "telekine bolt",
+    "anti-warp": "psyk-out dust jet"
+  },
+  "liquid": {
+    "rad": "liquid Radioactive Waste",
+    "incendiary": "flaming promethium gel",
+    "electric": "electrified liquid",
+    "acid": "viscous acid",
+    "freeze": "cryogenic liquid",
+    "HE": "explosive gel",
+    "HVAP": "borer nanite",
+    "viral": "virulent toxin jet",
+    "psychic": "arcane fire gel",
+    "anti-warp": "liquid psyk-out"
+  },
+  "grenade": {
+    "rad": "rad grenade",
+    "incendiary": "melta bomb",
+    "electric": "emp grenade",
+    "acid": "anti-personnel nitric grenade",
+    "freeze": "cryo grenade",
+    "HE": "timed grenade",
+    "HVAP": "timed magnetic anti-tank mine",
+    "viral": "hellfire grenade",
+    "psychic": "mindblast grenade",
+    "anti-warp": "psyk-out grenade"
+  },
+  "dart": {
+    "rad": "irradiated poison injector",
+    "incendiary": "dragonfire dart",
+    "electric": "taser dart",
+    "acid": "acid injector dart",
+    "freeze": "cryo injector dart",
+    "HE": "delayed action explosive dart",
+    "HVAP": "high-velocity spike",
+    "viral": "biologically tainted dart",
+    "psychic": "arcane dart",
+    "anti-warp": "anti-warp dart"
+  },
+  "bio": {
+    "rad": "radioactive squig",
+    "incendiary": "bio-plasma",
+    "electric": "EOD bacteria",
+    "acid": "tyranid digestive acid",
+    "freeze": "frostbite bacteria",
+    "HE": "tyranid spore",
+    "HVAP": "venom crystal",
+    "viral": "viral spore",
+    "psychic": "wyrdsquig",
+    "anti-warp": "pariah xenoform"
+  },
+  "blade": {
+    "rad": "uranium shard",
+    "incendiary": "plasma cutter",
+    "electric": "charged flechette",
+    "acid": "injector flechette",
+    "freeze": "supercooled flechette",
+    "HE": "explosively formed penetrator",
+    "HVAP": "razor filament",
+    "viral": "infected shuriken",
+    "psychic": "force flechette",
+    "anti-warp": "psy-disruptor flechette"
+  },
+  "mine": {
+    "rad": "neutron pulse mine",
+    "incendiary": "incendary gel mine",
+    "electric": "shock satchel",
+    "acid": "anti-armor acid mine",
+    "freeze": "ice mine",
+    "HE": "explosive sticky mine",
+    "HVAP": "penetrator mine",
+    "viral": "life-eater mine",
+    "psychic": "warp mine",
+    "anti-warp": "psyk-out mine"
+  },
+  "sorc": {
+    "rad": "Warp Radiation Pulse",
+    "incendiary": "Warp Fire",
+    "electric": "Warp Lightning",
+    "acid": "Nurgle's Decay",
+    "freeze": "Icy Petrification",
+    "HE": "Daemonic Detonation",
+    "HVAP": "Tzeentech Bolt",
+    "viral": "Nurgle's Rot",
+    "psychic": "Psychic Scream",
+    "anti-warp": "Pariah Effect"
+  }
+}

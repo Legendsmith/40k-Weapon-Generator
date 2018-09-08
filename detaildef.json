@@ -1,0 +1,43 @@
+{
+  "attach": [
+    " chainblade attachment",
+    "n expanded ammo hold",
+    " high-power scope",
+    " rapid fire mechanism",
+    " prey-sense sight",
+    " grenade launcher",
+    " armor casing",
+    " flamethrower attachment"
+  ],
+  "detail": [
+    "has an optical camouflage coating",
+    "has a psychic enhancer",
+    "has a machine spirit",
+    "has a power field",
+    "has in numerous spikes and blades",
+    "is possessed",
+    "is sanctified",
+    "has multiple barrels",
+    "is made of living metal",
+    "has an internal plasma reactor"
+  ],
+  "cons": [
+    " tends to jam.",
+    "'s parts need constant service.",
+    " has a long reload",
+    " tends to misfire",
+    " is cumbersome",
+    " is overly complicated",
+    " has poor accuracy",
+    " tends to overheat",
+    " has extreme recoil",
+    " has a history of owners meeting tragic fates"
+  ],
+  "age": [
+    "pre-heresy",
+    "several millennia",
+    "several decades",
+    "unknown",
+    "brand new"
+  ]
+}

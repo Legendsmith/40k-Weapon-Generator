@@ -1,0 +1,75 @@
+{
+  "faction": {
+    "mechanicus": [
+      "techpriest magos",
+      "techmarine",
+      "techpriest logis",
+      "techpriest genetor",
+      "techpriest artisan",
+      "techpriest enginseer"
+    ],
+    "IG": [
+      "guardsman",
+      "sergeant",
+      "captain",
+      "commissar",
+      "major",
+      "general"
+    ],
+    "spacemarine": [
+      "space marine",
+      "scout",
+      "dreadnaught"
+    ],
+    "inquisition": [
+      "Ordo Malleus inquisitor",
+      "Ordo Xenos inquisitor",
+      "Ordo Hereticus inquisitor",
+      "Adept",
+      "acolyte"
+    ],
+    "eldar": [
+      "farseer",
+      "fire dragon",
+      "Howling Banshee",
+      "warp spider"
+    ],
+    "darkeldar": [
+      "Archon",
+      "Dracon",
+      "Trueborn",
+      "Sybarite",
+      "Warrior"
+    ],
+    "ork": [
+      "warboss",
+      "nob",
+      "boy",
+      "grot"
+    ],
+    "chaos": [
+      "traitor marine",
+      "horrible mutant",
+      "traitor guardsman",
+      "daemon"
+    ],
+    "tau": [
+      "fire warrior",
+      "crisis battlesuit",
+      "etherial",
+      "earth caste"
+    ],
+    "necron": [
+      "necron warrior",
+      "tomb lord",
+      "cryptek"
+    ],
+    "tyranid": [
+      "hormagaunt",
+      "Hive Tyrant",
+      "Broodlord",
+      " Termagant",
+      "Genestealer"
+    ]
+  }
+}

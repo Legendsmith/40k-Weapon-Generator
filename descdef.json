@@ -1,0 +1,65 @@
+[
+  {
+    "descString": "On the weapon is an image of a %0 holding a %1.",
+    "params": [
+      "*solider*",
+      "*ammo*"
+    ]
+  },
+  {
+    "descString": "On the weapon is an image of a %0 laughing at a %1.",
+    "params": [
+      "*solider*",
+      "*enemy*"
+    ]
+  },
+  {
+    "descString": "On the weapon is an image of a %0 killing a %1 with a %2",
+    "params": [
+      "*solider*",
+      "*enemy*",
+      "*weapon*"
+    ]
+  },
+  {
+    "descString": "On the weapon is an image of a %0 wounding a %1 with a %2",
+    "params": [
+      "*solider*",
+      "*enemy*",
+      "*weapon*"
+    ]
+  },
+  {
+    "descString": "On the weapon is an image of a %0 standing triumphant over a %1.",
+    "params": [
+      "*solider*",
+      "*enemy*"
+    ]
+  },
+  {
+    "descString": "On the weapon is an image of a %0 in a dramatic pose.",
+    "params": [
+      "*solider*"
+    ]
+  },
+  {
+    "descString": "On the weapon is an image of a %0 loading %1 ammunition into a %2 .",
+    "params": [
+      "*solider*",
+      "*ammo*",
+      "*weapon*"
+    ]
+  },
+  {
+    "descString": "On the weapon is an image of %0",
+    "params": [
+      "*ammo*"
+    ]
+  },
+  {
+    "descString": "On the weapon is an image of %0 striking a target.",
+    "params": [
+      "*ammo*"
+    ]
+  }
+]

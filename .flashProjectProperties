@@ -1,0 +1,25 @@
+<projectDescription>
+  <id>1331460686931</id>
+  <name>40k_weapon_gen</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/Matt/AppData/Local/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/Matt/AppData/Local/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp/>
+  <rootURI>file:///C|/Users/Matt/Documents/Flash/Interactive/40k_weapon_gen/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false">
+    <uri label="generator_v2_main.fla">file:///C|/Users/Matt/Documents/Flash/Interactive/40k_weapon_gen/generator_v2_main.fla</uri>
+  </compileList>
+  <recentFiles editable="false">
+    <uri label="V2_main.as">file:///C|/Users/Matt/Documents/Flash/Interactive/40k_weapon_gen/V2_main.as</uri>
+    <uri label="Basicutils.as">file:///C|/Users/Matt/Documents/Flash/Interactive/40k_weapon_gen/com/mattsutils/abstract/Basicutils.as</uri>
+    <uri label="generator_v2_main.fla">file:///C|/Users/Matt/Documents/Flash/Interactive/40k_weapon_gen/generator_v2_main.fla</uri>
+    <uri label="Generator_main.as">file:///C|/Users/Matt/Documents/Flash/Interactive/40k_weapon_gen/Generator_main.as</uri>
+    <uri label="generator_main.fla">file:///C|/Users/Matt/Documents/Flash/Interactive/40k_weapon_gen/generator_main.fla</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
