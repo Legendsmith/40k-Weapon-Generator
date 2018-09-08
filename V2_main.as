@@ -53,7 +53,7 @@
 		}
 		//
 		public function dorefresh(e:MouseEvent) {
-			jsonRequest=new URLRequest("http://dl.dropbox.com/u/29574227/40kweapongen/definitions.json");
+			jsonRequest=new URLRequest("definitons.json");
 			jsonLoader.load(jsonRequest);
 			loadphase=0;
 		}
