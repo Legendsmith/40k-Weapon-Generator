@@ -19,7 +19,7 @@ var factionobj={
     "spacemarine": [
       "space marine",
       "scout",
-      "dreadnaught"
+      "dreadnought"
     ],
     "inquisition": [
       "Ordo Malleus inquisitor",

@@ -22,8 +22,8 @@ var detailobj={
     "has an internal plasma reactor"
   ],
   "cons": [
-    " tends to jam.",
-    "'s parts need constant service.",
+    " tends to jam",
+    "'s parts need constant maintenance",
     " has a long reload",
     " tends to misfire",
     " is cumbersome",

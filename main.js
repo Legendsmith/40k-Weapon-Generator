@@ -58,7 +58,9 @@ function newwep() {
 
 	//end doing description
 
-	var finalwep="You have generated a ";
-	finalwep=finalwep.concat(newfac," ",wepname,". It ",newdetail," and a",newattach,". It fires ",weptype,"s.\n","Unfortunately it",newcons,". Its age is ",newage,"\n",descs,"\n ________\n");
+	var finalwep="You have discovered a ";
+	printfac = newfac.charAt(0).toUpperCase() + newfac.substr(1)
+	finalwep=finalwep.concat(printfac," ",wepname,". It ",newdetail," and a",newattach,". It fires ",weptype,"s.\n","Unfortunately it",newcons,". Its age is ",newage,"\n",descs,"\n\n");
 	ta_output.value=ta_output.value.concat(finalwep);
+	getId("ta_output").scrollTop = getId("ta_output").scrollHeight;
 }
