@@ -1,4 +1,4 @@
-{
+var factionobj={
   "faction": {
     "mechanicus": [
       "techpriest magos",
