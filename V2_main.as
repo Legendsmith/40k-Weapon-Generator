@@ -41,7 +41,7 @@
 		// Initialization:
 		public function V2_main() {
 
-			jsonRequest=new URLRequest("https://dl.dropboxusercontent.com/u/29574227/40kweapongen/definitions.json");
+			jsonRequest=new URLRequest("https://legendsmith.github.io/40k-Weapon-Generator/definitions.json");
 			jsonLoader=new URLLoader  ;
 			jsonLoader.dataFormat=URLLoaderDataFormat.TEXT;// default
 			jsonLoader.addEventListener(Event.COMPLETE, jsonLoader_complete);
@@ -53,7 +53,7 @@
 		}
 		//
 		public function dorefresh(e:MouseEvent) {
-			jsonRequest=new URLRequest("definitons.json");
+			jsonRequest=new URLRequest("https://legendsmith.github.io/40k-Weapon-Generator/definitions.json");
 			jsonLoader.load(jsonRequest);
 			loadphase=0;
 		}
