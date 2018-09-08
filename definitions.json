@@ -12,8 +12,8 @@
     "necron",
     "tyranid"
   ],
-  "factionURL": "https://dl.dropboxusercontent.com/u/29574227/40kweapongen/factiondef.json",
-  "descURL": "https://dl.dropboxusercontent.com/u/29574227/40kweapongen/descdef.json",
+  "factionURL": "https://legendsmith.github.io/40k-Weapon-Generator/factiondef.json",
+  "descURL": "https://legendsmith.github.io/40k-Weapon-Generator/descdef.json",
   "wepclass": [
     "artlimb",
     "gauntlet",
@@ -31,7 +31,7 @@
     "hunderslung",
     "drone"
   ],
-  "classURL": "https://dl.dropboxusercontent.com/u/29574227/40kweapongen/wepclasses.json",
+  "classURL": "https://legendsmith.github.io/40k-Weapon-Generator/wepclasses.json",
   "weptype": [
     "bullet",
     "rocket",
@@ -56,7 +56,7 @@
     "psychic",
     "anti-warp"
   ],
-  "typeURL": "https://dl.dropboxusercontent.com/u/29574227/40kweapongen/weptypes.json",
+  "typeURL": "https://legendsmith.github.io/40k-Weapon-Generator/weptypes.json",
   
   "details": [
   "attach",
@@ -64,5 +64,5 @@
   "cons",
   "age"
   ],
-  "detailURL": "https://dl.dropboxusercontent.com/u/29574227/40kweapongen/detaildef.json"
+  "detailURL": "https://legendsmith.github.io/40k-Weapon-Generator/detaildef.json"
 }
