@@ -2,7 +2,9 @@ function dice(max) {
 	return (Math.floor(Math.random()*(max)));
 }
 
-
+function getId(str){
+  return document.getElementById(str)
+}
 
 function dreplace(descinput, dparams) {
 	var i=-1;
